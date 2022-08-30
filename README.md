@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+- 👋 Hi, I’m Zahid Tanveer
+- 👀 I’m interested in The Microsoft Stack
+- 🌱 I’m currently learning Blazor Server
+- 💞️ I’m looking to collaborate on ...
+- 📫 How to reach me zahid_tanveer@live.com / whatspp: +92-315-9260157
 <!--
 **Zahidtanveer/Zahidtanveer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
