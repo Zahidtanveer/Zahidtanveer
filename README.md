@@ -1,8 +1,8 @@
 ### Hi there 👋
 
 - 👋 Hi, I’m Zahid Tanveer
-- 👀 I’m interested in The Microsoft Stack
-- 🌱 I’m currently learning Blazor Server
+- 👀 I’m interested in .NET Core, ReactJs, AngularJS ...
+- 🌱 I’m currently learning ReactJS, AungularJS ...
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me zahid_tanveer@live.com / Whatspp: +92-315-9260157
 <!--
